@@ -102,8 +102,4 @@ Este repositório pode ser licenciado como MIT — ajuste conforme sua preferên
 
 ---
 
-Se quiser, eu posso:
-- adicionar um `LICENSE` com MIT;
-- renomear a classe `Biblioteca` para evitar ambiguidade (`BibliotecaService`);
-- traduzir mensagens do console para inglês para publicar no GitHub internacionalmente.
 
